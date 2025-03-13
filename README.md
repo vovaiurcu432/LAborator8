@@ -3,8 +3,8 @@ Acesta este un proiect de test pentru a exersa colaborarea in Git.
 Elevul B a adaugat o linie noua.
 
 
-Echipa noastră este formată din Elev A și Elev B, doi colaboratori pasionați de Git și programare.
-Adăugat de Elev A.
+Echipa formată din Elev A și Elev B este un duo puternic, dedicat colaborării eficiente și dezvoltării abilităților în Git și programare. 💻
+Elevul B a agaugat aceasta:
 Liderul inițial al proiectului, responsabil pentru setarea de bază a repository-ului și adăugarea primului conținut în README.md.
 Este organizat și atent la detalii, asigurându-se că fiecare commit reflectă clar modificările aduse.
 Elev B:
